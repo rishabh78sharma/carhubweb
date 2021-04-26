@@ -266,7 +266,7 @@
         "username": "rishabh_admin",
         "first_name": "RISHABH",
         "last_name": "sharma",
-        "email": "rishabhssharma2112@gmail.com",
+        "email": "",
         "is_staff": true,
         "is_active": true,
         "date_joined": "2021-04-12T06:07:23Z",
@@ -283,7 +283,7 @@
         "username": "rish",
         "first_name": "rishabh",
         "last_name": "sharma",
-        "email": "believethat2112@gmail.com",
+        "email": "",
         "is_staff": false,
         "is_active": true,
         "date_joined": "2021-04-19T16:52:02.303Z",
@@ -297,8 +297,8 @@
         "password": "!VdQVRQYaqYabzxyYWFWo0o8yNxyf24hKfc70SrvI",
         "last_login": "2021-04-19T17:55:16.625Z",
         "is_superuser": false,
-        "username": "sanjeev",
-        "first_name": "Sanjeev",
+        "username": "",
+        "first_name": "",
         "last_name": "Sharma",
         "email": "",
         "is_staff": false,
@@ -939,7 +939,7 @@
             "contact"
         ],
         "object_id": "1",
-        "object_repr": "beliethat@2112gmail.com",
+        "object_repr": "",
         "action_flag": 3,
         "change_message": ""
     }
